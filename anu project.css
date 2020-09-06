@@ -116,7 +116,10 @@ li a:hover {
 	flex-direction: row;
 }
 .ghi{
-	width: 20%;
+	width: 50%;
+}
+.ghi img{
+	margin-left: 80%;
 }
 .jkl{
 	background-image: url('img19.jpg');
